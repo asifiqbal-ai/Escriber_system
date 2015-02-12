@@ -4,11 +4,11 @@ A HOSPITAL MANAGEMENT APPLICATION built with the MEAN stack
 this is a manual set up of the mean stack
 
 
-1. install node js
+1.install node js
 
-2 install mongoDB
+2.install mongoDB
 
-3. using npm install express  using command (npm install express -g)
+3.using npm install express  using command (npm install express -g)
 
 4.install a front_end package manager bower // http://bower.io/
 
